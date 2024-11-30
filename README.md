@@ -4,8 +4,6 @@ This project is an independent analysis created for educational and professional
 
 This Project has 3 main parts:
 
-The Jupyter Notebook with the inital Data Analysis
-
 **1. Jupyter Notebook: Data Cleaning and Analysis**
 - The Jupyter Notebook contains the core data cleaning and analysis work.
 - Key steps include:

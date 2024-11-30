@@ -20,7 +20,7 @@ This Project has 3 main parts:
   - Visualizations and conclusions presented in an easy-to-understand format.
   - Designed to showcase the results in a professional and compelling way.
 
-**3. Tableau Dashboard: Interactive Data Exploration** - 
+**3. Tableau Dashboard: Interactive Data Exploration** - Nintendo BI Project Dashboard.twb (or view the PNG for a brief view)
 - A Tableau Dashboard was built to provide an interactive summary of the analysis.
 - Features include:
   - Visualizations of meta scores and user scores over time.

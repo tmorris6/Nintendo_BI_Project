@@ -12,7 +12,7 @@ This Project has 3 main parts:
   - Performing genre-based correlation analysis to explore how game genre affects meta scores.
   - Libraries used include pandas, seaborn, and matplotlib for data manipulation and visualization.
 
-**2. Presentation: Key Findings and Insights**
+**2. Presentation: Key Findings and Insights** - Nintendo Bi Project.pdf
 - A polished Google Slides presentation was created to summarize the analysis.
 - It includes:
   - An overview of the dataset and methodology.
@@ -20,7 +20,7 @@ This Project has 3 main parts:
   - Visualizations and conclusions presented in an easy-to-understand format.
   - Designed to showcase the results in a professional and compelling way.
 
-**3. Tableau Dashboard: Interactive Data Exploration**
+**3. Tableau Dashboard: Interactive Data Exploration** - 
 - A Tableau Dashboard was built to provide an interactive summary of the analysis.
 - Features include:
   - Visualizations of meta scores and user scores over time.

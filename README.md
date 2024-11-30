@@ -1,0 +1,3 @@
+This project is an independent analysis created for educational and professional purposes. It is not affiliated with, endorsed by, or licensed by Nintendo or its subsidiaries.
+
+This Project has 3 main parts...

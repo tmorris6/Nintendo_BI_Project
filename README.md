@@ -4,7 +4,7 @@ This project is an independent analysis created for educational and professional
 
 This Project has 3 main parts:
 
-**1. Jupyter Notebook: Data Cleaning and Analysis**
+**1. Jupyter Notebook: Data Cleaning and Analysis** - Nintendo.ipynb
 - The Jupyter Notebook contains the core data cleaning and analysis work.
 - Key steps include:
   - Data wrangling and preprocessing to ensure consistency and usability.
